@@ -45,4 +45,10 @@ I used WordPress as the core CMS and customized it using various professional to
 
 Login -> Event Registration -> Email to User & Admin -> Result
 
-### Screenshot (Home Page)
+### 📸 Project Screenshot (Home Page)
+
+![Home Page](Screenshots/home-page.png)
+
+**You can see the full visual workflow in the /Screenshots folder of this repository** 
+
+
