@@ -47,7 +47,7 @@ Login -> Event Registration -> Email to User & Admin -> Result
 
 ### 📸 Project Screenshot (Home Page)
 
-![Home Page](Screenshots/home-page.png)
+![Home Page](Screenshots/01-home-page.png)
 
 **You can see the full visual workflow in the /Screenshots folder of this repository** 
 
